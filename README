@@ -1,3 +1,14 @@
-This is the Zend_Service_Tumblr proposal.
+This is the Zend_Service_Tumblr Component Proposal.
 
 THIS IS NOT FINISHED!
+
+* Update 2010-03-22 *
+This git repository is no longer maintained as the component proposal has been accepted by the Zend Framework! The latest development code is located in the Zend Framework Incubator. 
+
+You can find the svn repository here: 
+http://framework.zend.com/svn/framework/standard/incubator
+
+Zend_Service_Tumblr Proposal:
+http://framework.zend.com/wiki/x/U4DU
+
+Any other questions, feel free to contact me on github.
